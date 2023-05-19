@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu_latest    
 steps:      
   -name: print greeting
-    run: echo "Hello Moon"
+    run: echo welcome
   -name: print goodbye
     run: echo "done bye"
